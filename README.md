@@ -1,12 +1,12 @@
 
+## Olá Sou Júlio César, com estudos focados em desenvolvimento JS 
 
 - 🔭 Atualmente trabalhando com UX
 - 🌱 Focado estudando JavaScript, TypeScript, Express, Axios 
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/julinti">
    <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=julinti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=julinti&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=julinti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -21,4 +21,5 @@
   <a href = "mailto:juliotecinfo00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-cesar-509513208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
+  
    </div>
