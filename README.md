@@ -2,7 +2,7 @@
 ## Olá Sou Júlio César, com estudos focados em desenvolvimento JS 
 
 - 🔭 Atualmente trabalhando com UX
-- 🌱 Focado estudando JavaScript, TypeScript, Express, Axios 
+- 🌱 Focado estudando JavaScript, TypeScript, Express, Axios, Git
 
   <a href="https://github.com/julinti">
    <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=julinti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
