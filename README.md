@@ -1,5 +1,5 @@
 
-## Olá Sou Júlio César, com estudos focados em desenvolvimento JS 
+## What's up guys sou Júlio César. 
 
 - 🔭 Atualmente trabalhando com UX
 - 🌱 Focado estudando JavaScript, TypeScript, Express, Axios, Git
