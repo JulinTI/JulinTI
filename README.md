@@ -1,5 +1,5 @@
 
-## What's up guys sou Júlio César. 
+## What's up guys!! Eu sou o Júlio César. 
 
 - 🔭 Atualmente trabalhando com UX
 - 🌱 Focado estudando JavaScript, TypeScript, Express, Axios, Git
