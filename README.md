@@ -2,12 +2,12 @@
 ## What's up guys!! Eu sou o Júlio César. 
 
 - 🔭 Atualmente trabalhando com UX
-- 🌱 Focado estudando JavaScript, TypeScript, Express, Axios, Git
+- 🌱 Focado estudando JavaScript, TypeScript, Express, Axios, Git, Html5, Css. 
 - Buscando oportunidade como desevolvedor front-end 
 
-  <a href="https://github.com/julinti">
-   <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=julinti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=julinti&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/JulinTI">
+   <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=JulinTI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JulinTI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
