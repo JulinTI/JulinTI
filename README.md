@@ -2,7 +2,7 @@
 ## What's up guys!! I´m Júlio César. 
 
 - 🔭 Currently working with UX
-- 🌱 Study focused on JavaScript, TypeScript, Express, Axios, Git, Html5, Css. 
+- 🌱 Study focused on JavaScript, Html5, Css, TypeScript, Express, Axios, Git. 
 - Seeking opportunity as a front-end or back-end developer.
 
   <a href="https://github.com/JulinTI">
