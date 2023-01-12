@@ -1,9 +1,9 @@
 
 ## What's up guys!! Eu sou o Júlio César. 
 
-- 🔭 Atualmente trabalhando com UX
-- 🌱 Focado estudando JavaScript, TypeScript, Express, Axios, Git, Html5, Css. 
-- Buscando oportunidade como desevolvedor front-end 
+- 🔭 Currently working with UX
+- 🌱 Study focused on JavaScript, TypeScript, Express, Axios, Git, Html5, Css. 
+- Seeking opportunity as a front-end or back-end developer
 
   <a href="https://github.com/JulinTI">
    <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=JulinTI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
