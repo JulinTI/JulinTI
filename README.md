@@ -3,7 +3,7 @@
 
 - 🔭 Currently working with UX
 - 🌱 Studies focused on front-end and back-end development
-- 📚 Technologies: JavaScript, Html5, Css, TypeScript, React, Express, Axios, Git. 
+- 📚 Technologies: JavaScript, Html5, Css, TypeScript, React, Express, Axios, Pithon, Git. 
 - 🚀 Seeking opportunity as a front-end or back-end developer.
 
  <div>
