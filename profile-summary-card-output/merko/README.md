@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/JulinTI/JulinTI/main/profile-summary-card-output/merko/4-productive-time.svg)
-```
-
-    
