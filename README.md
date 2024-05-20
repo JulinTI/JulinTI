@@ -1,7 +1,7 @@
 
 ## What's up guys!! I´m Júlio César. 
 
-- 🔭 I´m a System Developer at Fundaffemg
+- 🔭 I work as a systems developer at fundaffemg
 - 🌱 Studies focused on back-end development
 - 📚 Technologies: JavaScript, Html5, Css, TypeScript, React, Node.js, Express, Axios, Python, Git. 
 - 🚀 Seeking opportunity as a back-end developer.
