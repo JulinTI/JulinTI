@@ -1,10 +1,10 @@
 
 ## What's up guys!! I´m Júlio César. 
 
-- 🔭 Currently working with UX
-- 🌱 Studies focused on front-end and back-end development
+- 🔭 I´m a System Developer at Fundaffemg
+- 🌱 Studies focused on back-end development
 - 📚 Technologies: JavaScript, Html5, Css, TypeScript, React, Node.js, Express, Axios, Python, Git. 
-- 🚀 Seeking opportunity as a front-end or back-end developer.
+- 🚀 Seeking opportunity as a back-end developer.
 
  <div>
   <a href="https://github.com/JulinTI">
