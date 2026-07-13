@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 💼 Software Engineer focused on backend solutions.
-- ☕ Experienced in Java, Node.js, Oracle PL/SQL, and ERP customizations (Sankhya).
+- ☕ Experienced in Java, Node.js, Oracle PL/SQL, and ERP customizations (Sankhya), MV, TOTVS.
 - 🔭 Building scalable REST APIs and enterprise integrations.
 - 🌱 Currently improving my skills in Spring Boot, AWS Cloud, Microservices, and Software Architecture.
 - 📚 Passionate about Clean Code, SOLID principles, and performance optimization.
